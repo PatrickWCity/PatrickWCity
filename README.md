@@ -25,6 +25,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patrickwcity&show_icons=true" alt="patrickwcity" /></p>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=patrickwcity&cover_image=false)](https://spotify-github-profile.vercel.app/api/view?uid=patrickwcity&redirect=true)
+
 <p align="center">
 <a href="https://codepen.io/patrickwcity" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="patrickwcity" height="30" width="30" /></a>
 <a href="https://dev.to/patrickwcity" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="patrickwcity" height="30" width="30" /></a>
