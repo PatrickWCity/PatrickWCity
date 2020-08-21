@@ -31,12 +31,11 @@
 <a href="https://codepen.io/patrickwcity" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="patrickwcity" height="30" width="30" /></a>
 <a href="https://dev.to/patrickwcity" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="patrickwcity" height="30" width="30" /></a>
 <a href="https://twitter.com/patrickwcity" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="patrickwcity" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/patrickwcity" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="patrickwcity" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/patrick.ciudad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="patrick.ciudad" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/8852621" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="8852621" height="30" width="30" /></a>
-<a href="https://codesandbox.com/patrickwcity" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="patrickwcity" height="30" width="30" /></a>
+<a href="https://codesandbox.com/u/patrickwcity" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="patrickwcity" height="30" width="30" /></a>
 <a href="https://fb.com/patrick.ciudad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="patrick.ciudad" height="30" width="30" /></a>
 <a href="https://instagram.com/patrickwcity" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="patrickwcity" height="30" width="30" /></a>
-<a href="https://dribbble.com/patrickwcity" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="patrickwcity" height="30" width="30" /></a>
 <a href="https://www.behance.net/patrickwcity" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="patrickwcity" height="30" width="30" /></a>
 <a href="https://medium.com/@patrickwcity" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@patrickwcity" height="30" width="30" /></a>
 <a href="https://www.youtube.com/c/patrickwcity" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="patrickwcity" height="30" width="30" /></a>
