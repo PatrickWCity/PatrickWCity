@@ -12,7 +12,3 @@
 - ⚡ Fun fact **There's always something new to learn!**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=PatrickWCity&theme=onedark)](https://github.com/PatrickWCity)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickwcity&layout=compact&hide=html" alt="patrickwcity" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patrickwcity&show_icons=true" alt="patrickwcity" /></p>
