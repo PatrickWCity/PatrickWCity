@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm PatrickWCity</h1>
 <h3 align="center">A passionate developer from Chile</h3>
-<a href="https://app.daily.dev/PatrickWCity"><img src="https://api.daily.dev/devcards/2271885b605941d7843b6cef59c15a5e.png?r=gj1" width="256" align="right" alt="Patrick Ciudad's Dev Card"/></a>
+<a href="https://app.daily.dev/PatrickWCity"><img src="https://raw.githubusercontent.com/PatrickWCity/PatrickWCity/master/devcard.svg" width="256" align="right" alt="Patrick Ciudad's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patrickwcity" alt="patrickwcity" /> </p>
 
